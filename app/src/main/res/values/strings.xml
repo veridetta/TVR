@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">TVR</string>
+    <string-array name="podcast_array">
+        <item>Radio</item>
+    </string-array>
+    <string-array name="subpodcast_array">
+        <item>Warta Parlemen</item>
+        <item>Peryataan Wakil Rakyat</item>
+        <item>Sudut dengar Parlemen</item>
+        <item>Profil Wakil Rakyat</item>
+        <item>Agenda hari ini</item>
+        <item>Warna - Warni Parlemen</item>
+        <item>Rapat Wakil Rakyat</item>
+        <item>Perspektif Para Pakar</item>
+        <item>PSA / Iklan Layanan Masyarakat</item>
+        <item>Lomba Orasi Bintang Parlemen</item>
+        <item>Warna Ramadhan</item>
+        <item>Report On The Spot</item>
+        <item>Kenverensi Pers</item>
+        <item>Suara Rakyat</item>
+
+
+    </string-array>
+    <string-array name="programs_array">
+        <item>ALAT KELENGKAPAN DEWAN</item>
+        <item>PEREMPUAN PARLEMEN DPR RI</item>
+        <item>HOUSE NEWS DPR RI</item>
+        <item>KABAR NUSANTARA</item>
+        <item>DIALEKTIKA DEMOKRASI</item>
+        <item>FORUM LEGISLASI</item>
+        <item>EDITORIAL PARLEMEN</item>
+        <item>TVR 09</item>
+        <item>TVR 17</item>
+        <item>TVR 120</item>
+        <item>INTIPS DPR RI</item>
+        <item>LENSA PARLEMEN</item>
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="sub_programs_array">
+        <item>KOMISI I</item>
+        <item>KOMISI II</item>
+        <item>KOMISI III</item>
+        <item>KOMISI IV</item>
+        <item>KOMISI V</item>
+        <item>KOMISI VI</item>
+        <item>KOMISI VII</item>
+        <item>KOMISI VIII</item>
+        <item>KOMISI IX</item>
+        <item>KOMISI X</item>
+        <item>KOMISI XI</item>
+        <item>PIMPINAN</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

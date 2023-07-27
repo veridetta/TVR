@@ -1,0 +1,49 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_program1"
+            android:title="ALAT KELENGKAPAN DEWAN" />
+        <item
+            android:id="@+id/nav_program2"
+            android:title="PEREMPUAN PARLEMEN DPR RI" />
+        <item
+            android:id="@+id/nav_program3"
+            android:title="HOUSE NEWS DPR RI" />
+        <item
+            android:id="@+id/nav_program4"
+            android:title="KABAR NUSANTARA" />
+        <item
+            android:id="@+id/nav_program5"
+            android:title="DIALEKTIKA DEMOKRASI" />
+        <item
+            android:id="@+id/nav_program6"
+            android:title="FORUM LEGISLASI" />
+        <item
+            android:id="@+id/nav_program7"
+            android:title="EDITORIAL PARLEMEN" />
+        <item
+            android:id="@+id/nav_program8"
+            android:title="TVR 09" />
+        <item
+            android:id="@+id/nav_program9"
+            android:title="TVR 17" />
+        <item
+            android:id="@+id/nav_program10"
+            android:title="TVR 120" />
+        <item
+            android:id="@+id/nav_program11"
+            android:title="INTIPS DPR RI" />
+        <item
+            android:id="@+id/nav_program12"
+            android:title="LENSA PARLEMEN" />
+        <item
+            android:id="@+id/nav_podcast"
+            android:title="RADIO" />
+        <item
+            android:id="@+id/logout"
+            android:title="Logout" />
+    </group>
+
+</menu>
